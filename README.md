@@ -9,7 +9,7 @@ Untitled.ipynb = Jupyter Notebook for Stock Prediciton ML
 
 app.py = webapp for Stock Prediction
 
-keras_model.h5 = ML model with 50 epoch calculations for stock prediction
+keras_model.h5 = Sequential ML model with 50 epoch calculations for stock prediction
 
 Salary&Job Prediction.ipynb = Jupyter Notebook for Salary Prediction
 

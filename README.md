@@ -1,5 +1,5 @@
 # Mello-Student-Guide
-A tool to help guide students for their adult lives
+Mello is a student guidance tool that consists of two important parts -- a stock predictor and a career/education guide. The stock predictor predicts the price of a stock in the next 30 days by fetching the price of the stock from the past 12 years from Yahoo Finance. This way students can learn how to manage their money and gain financial independence with the use of a simple machine learning algorithm. The second part of Mello, the career and education guide, allows students to plug in the country where they might work, their college degree, and the years of experience, to estimate the salary. This tool allows students to choose what degree they want in their college life: a master's or bachelors.
 
 Files:
 

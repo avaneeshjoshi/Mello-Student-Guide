@@ -53,7 +53,7 @@ def load_data():
 df = load_data()
 
 def show_explore_page():
-    st.title("Explore Software Engineer Salaries")
+    st.title("Explore Software Engineer Salaries with Mello")
 
     st.write(
         """

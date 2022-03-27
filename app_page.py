@@ -8,7 +8,7 @@ import streamlit as st
 start = '2010-01-01'
 end = '2022-03-23'
 
-st.title('Stock Prediction')
+st.title('Mello Stock Prediction')
 
 user_input = st.text_input('Enter Stock Ticket', 'AAPL')
 df = data.DataReader(user_input, 'yahoo', start, end)

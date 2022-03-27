@@ -15,7 +15,7 @@ le_country = data["le_country"]
 le_education = data["le_education"]
 
 def show_predict_page():
-    st.title("Software Developer Salary Prediction")
+    st.title("Mello Software Developer Salary Prediction")
 
     st.write("""### We need some information to predict the salary""")
 

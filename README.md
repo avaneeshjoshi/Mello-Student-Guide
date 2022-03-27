@@ -26,3 +26,6 @@ Instructions:
 1) create a conda environment and run the tensorflow.yml file to get required packages for Mello
 2) open a new terminal in folder and type :- "streamlit run app.py" - This is for the Stock Predicition WebApp
 3) open a new terminal in folder and type :- "streamlit run salary.py" - This is for the Salary&Job Prediction WebApp
+
+
+Note: 67000/69000 lines of code is just data from survey_results_public.csv

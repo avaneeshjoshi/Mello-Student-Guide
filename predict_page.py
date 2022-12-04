@@ -5,8 +5,8 @@ import numpy as np
 
 def load_model():
     file = open('saved_steps.pkl', 'rb')
-    data = pickle.load(file)
-    return data
+    data1 = pickle.load(file)
+    return data1
 
 data = load_model()
 
